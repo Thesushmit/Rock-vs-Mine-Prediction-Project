@@ -78,11 +78,7 @@ This project uses a Logistic Regression model to classify sonar signal returns a
 
 ---
 
-### 📸 Screenshot
 
-*(Include a screenshot of the notebook output if available.)*
-
----
 
 ### 🧑‍💻 Author
 
@@ -90,5 +86,5 @@ This project uses a Logistic Regression model to classify sonar signal returns a
 2nd Year, Symbiosis Nagpur  
 Python • ML • Web Dev  
 
----
+
 
